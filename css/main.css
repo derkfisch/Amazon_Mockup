@@ -1,0 +1,98 @@
+#sign-up-box{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    margin: 6.50%;
+}
+
+#form-box{
+    width: 25%;
+    border: 2px solid rgba(153, 153, 153, 0.425);
+}
+
+#create-account-button{
+    display: flex;
+    justify-content: center;
+}
+
+.inline-content{
+    display: inline-block;
+}
+
+#left-text{
+    float:left
+}
+
+#right-text{
+    float:right
+}
+
+input{
+    width: 87%; 
+    margin: auto;
+    display: block;
+    border-radius: 4px;
+}
+
+#continue-button{
+    margin: auto;
+    display: block;
+    text-align: center;
+    width: 90%;
+    background-color: orange;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+
+h4{
+    margin-bottom: 0;
+    margin-left: 6.5%;
+    margin-right: 6.5%;
+}
+
+#create-account-button{
+    align-self: center;
+    text-align: center;
+}
+
+#new-account-box{
+    display: flex;
+    justify-content: center;
+}
+
+h5{
+    text-align: center;
+    display: inline;
+}
+
+#create-account-flex{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li{
+    text-align: center;
+    float: left;
+    padding: 5px;
+}
+
+h6{
+    text-align: center;
+}
